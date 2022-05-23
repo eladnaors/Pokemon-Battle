@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4790685c398bf2c439ae20791282ed4b, type: 3}
+  m_Name: PokemonDataBase
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Bulbasaur
+    characterSprite: {fileID: 21300000, guid: 753fe8990d702f94690bb95c49010015, type: 3}
+    pokemonbase: {fileID: 11400000, guid: 577027d53cf19784f82603dbde27a383, type: 2}
+  - characterName: Charmander
+    characterSprite: {fileID: 21300000, guid: 6b407efac008eb44b9ef7ac6e820f6e4, type: 3}
+    pokemonbase: {fileID: 11400000, guid: 85c411cd112f1df4ea00a96953b1e568, type: 2}
+  - characterName: Squirtel
+    characterSprite: {fileID: 21300000, guid: e41caae1953fa454d92f06b715b36b73, type: 3}
+    pokemonbase: {fileID: 11400000, guid: ff423e604085b3f47ae9eeb4d8c3e841, type: 2}
+  - characterName: Pikachu
+    characterSprite: {fileID: 21300000, guid: 1b95aa7c661373a44995342acb2ae01f, type: 3}
+    pokemonbase: {fileID: 11400000, guid: 7dbcc9b1653919140ac622bcd44f6134, type: 2}
+  - characterName: Charmeleon
+    characterSprite: {fileID: 21300000, guid: 768208a992610ae4a9406a41807b5f05, type: 3}
+    pokemonbase: {fileID: 11400000, guid: 3461232beb497194b89844fc2e2568d2, type: 2}
+  - characterName: Wartortle
+    characterSprite: {fileID: 21300000, guid: c97aa5ea8872252448ddff8d06986645, type: 3}
+    pokemonbase: {fileID: 11400000, guid: 2d9f9d210e815994baa351c5031b2a5d, type: 2}
+  - characterName: Ivysaur
+    characterSprite: {fileID: 21300000, guid: 5afba0fe4a229fb4087ca47a391d2c02, type: 3}
+    pokemonbase: {fileID: 11400000, guid: a4d99c9ca7a93914d8919b10d1ac8f02, type: 2}
+  - characterName: Raichu
+    characterSprite: {fileID: 21300000, guid: e1d5f1776e3e9f54792691b580eada61, type: 3}
+    pokemonbase: {fileID: 11400000, guid: fbbdeef3f3eff614ca0c8507e7283000, type: 2}
+  - characterName: Blastoise
+    characterSprite: {fileID: 21300000, guid: 131b426d3493e0344bf245a4b4d9a1da, type: 3}
+    pokemonbase: {fileID: 11400000, guid: a81efc67d01b1de41bca535d671c9abf, type: 2}
+  - characterName: Charizard
+    characterSprite: {fileID: 21300000, guid: 5f99a3944fde62b4f887e9b48194a768, type: 3}
+    pokemonbase: {fileID: 11400000, guid: 164350355f633e54c82ac95bb00d8423, type: 2}
+  - characterName: Venusaur
+    characterSprite: {fileID: 21300000, guid: 698c0cda3742d604383a861060a130e1, type: 3}
+    pokemonbase: {fileID: 11400000, guid: c5271d46e71cb5145a7246db382510a9, type: 2}
